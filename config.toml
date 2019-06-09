@@ -1,0 +1,72 @@
+# Site settings
+baseURL = "//mattmawer.co.uk"
+languageCode = "en-US"
+title = "Matt Mawer"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2019 Matt Mawer"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Matt Mawer"
+  description = "Matt Mawer's professional website"
+  shareImage = ""
+  twitterHandle = ""
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/MM-CAVA-GFHEU.JPG"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "About..."
+
+      [[params.links.list1.link]]
+        text = "Bio"
+        url = "/bio"
+
+      [[params.links.list1.link]]
+        text = "Publications"
+        url = "/Matt-Mawer-publications.pdf"
+
+
+	# Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Profiles..."
+
+      [[params.links.list2.link]]
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/mattmawer/"
+
+      [[params.links.list2.link]]
+        text = "ORCID"
+        url = "https://orcid.org/0000-0002-5360-4540"
+
+ 
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # This is a licensed version, so the attribution credit has been removed
