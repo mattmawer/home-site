@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "//mattmawer.co.uk"
+baseURL = "//matt-mawer.netlify.com/"
 languageCode = "en-US"
 title = "Matt Mawer"
 theme = "hugo-split-theme"
