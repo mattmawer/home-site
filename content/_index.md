@@ -1,4 +1,4 @@
 +++
 title = "Matt Mawer"
-tagline = "Social Researcher. Evaluator."
+tagline = "Researcher. Evaluator."
 +++
