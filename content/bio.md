@@ -2,7 +2,7 @@
 title = "Matt Mawer"
 +++
 
-My professional life revolves around formulating comprehensible answers to complex questions. I spent over a decade in-or-around academia before joining the Civil Service as a social researcher in the UK Department for Education (DfE). I am currently on secondment to the Department for Environment, Food and Rural Affairs (Defra), jointly running the social science evidence team in the Environmental Land Management (ELM) division.
+My professional life revolves around formulating comprehensible answers to complex questions. I have worked in central government, academia, and the NGO sector, both as a primary researcher and a research commissioner. I am currently based at the Department for Education, evaluating UK public education policy as part of the wide-ranging analytical work of the Central Analysis Unit, having recently returned from secondment leading the Environmental Land Management social science team in the Department for Environment, Food and Rural Affairs.
 
 Prior to joining the Civil service, I was based at [The Association of Commonwealth Universities](https://www.acu.ac.uk/) (ACU), the world’s first and oldest international university network. With a small team of colleagues, I analysed the outcomes of a £25m per annum government-funded scholarship program – the UK’s Commonwealth Scholarships and Fellowships – for individual recipients and societies; in addition to writing about scholarship programme outcomes, the state of evaluation practice, and the wider implications of higher education development programs.
 
